@@ -1,1 +1,1 @@
-# maxcut_solver
+# Max Cut Solver
